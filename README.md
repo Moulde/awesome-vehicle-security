@@ -271,6 +271,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
 - [PandwaRF](https://pandwarf.com/) - PandwaRF is a pocket-sized, portable RF analysis tool operating the sub-1 GHz range. It allows the capture, analysis and re-transmission of RF via an Android device or a Linux PC. Capture any data in ASK/OOK/MSK/2-FSK/GFSK modulation from the 300-928 MHz band.
 - [CAN MITM Bridge by MUXSCAN](https://www.tindie.com/products/muxsan/can-mitm-bridge-3-port-rev-25/) - a tool to MITM CAN messages, allowing easy interaction with your car.
 - [PiCCANTE](https://github.com/Alia5/PiCCANTE) - Open-source CAN hacking tool based on Raspberry Pi Pico [2] (W) - Up to 3x CAN interfaces, includes ELM327 emulator. 
+- [AutoPi](https://github.com/autopi-io/autopi-core) - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for vehicle telematics, CAN bus data collection, and automotive IoT applications.
 
 # Software
 
